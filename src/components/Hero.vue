@@ -34,6 +34,7 @@ export default {
     background-image: url("../assets/bg-9.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    position: relative;
 
     .overlay{
         position: absolute;
