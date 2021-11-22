@@ -1,0 +1,14 @@
+$text-color-green: #01a1a1;
+$btn-color-green: #16928e;
+
+.btn-material-green {
+    color: white;
+    background-color: #16928e;
+    border-color: #16928e;
+}
+
+.btn-nobg-bordergreen{
+    color: white;
+    background-color: rgba($color: #00000000, $alpha: .0);
+    border-color: #16928e;
+}
