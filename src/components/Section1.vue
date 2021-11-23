@@ -5,7 +5,9 @@
           <!-- sezione di sinistra -->
           <h5 id="who">WHO WE ARE</h5>
           <div class="main-title my-3">
-            <div class="d-flex align-items-center" id="excellence" ><i class="far fa-gem"></i> <h2 class="ps-2">EXCELLENCE </h2></div>
+            <div class="d-flex align-items-center" id="excellence" >
+              <i class="far fa-gem"></i> <h2 class="ps-2">EXCELLENCE </h2>
+            </div>
             <h2> in Transport</h2>
           </div>
           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum veritatis ullam ducimus corporis est harum nam maxime! Odit repellat voluptatum, porro nobis libero ad reprehenderit earum itaque perspiciatis, eos quia?</p>
