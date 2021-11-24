@@ -13,10 +13,16 @@
     <Results />
 
     <Trusted />
+
+    <Contacts />
+
+    <Footer />
   </div>
 </template>
 
 <script>
+import Contacts from './Contacts.vue';
+import Footer from './Footer.vue';
 import Hero from "./Hero.vue";
 import Logistical from "./Logistical.vue";
 import MainService from "./MainService.vue";
@@ -33,6 +39,8 @@ export default {
     Logistical,
     Results,
     Trusted,
+    Contacts,
+    Footer,
   },
   name,
   Results: "Page",

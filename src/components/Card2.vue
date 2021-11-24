@@ -27,7 +27,7 @@ export default {
     img{
         width: 150px;
         margin-bottom: 15px;
-        color: white;
+        filter: invert(1);
     }
 
     p{
